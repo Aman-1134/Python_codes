@@ -32,3 +32,5 @@ oh_enc_df = pd.DataFrame(oh_enc_arr, columns=['Id', 'MSSubClass', 'MSZoning_C (a
        'LotConfig_Corner', 'LotConfig_CulDSac', 'LotConfig_FR2'])
 
 print(oh_enc_df.head())
+
+print("aman")
